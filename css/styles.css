@@ -1,10 +1,9 @@
-#navbar ul li {
-  display: inline;
+.navbar links {
 	padding: 10px;
-	text-align: bottom;
+	color: red;
 }
 
-h1 {
+.navbar-header {
 	font-family: 'Cuprum', sans-serif;
 	font-style: italic;
 	font-size: 50px;
@@ -12,7 +11,6 @@ h1 {
 	color: white;
 	display: inline;
 	float: left;
-	position: relative;
 }
 p {
 	font-family: 'Lato', sans-serif;
@@ -20,4 +18,16 @@ p {
 
 .image {
 	margin: 5px 5px 5px 5px;
+}
+
+.main-menu {
+	float: right;
+}
+
+body {
+  background: url('img/old_spice_.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
