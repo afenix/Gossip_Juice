@@ -8,7 +8,7 @@
 	font-style: italic;
 	font-size: 50px;
 	padding-left: 20px;
-	color: white;
+	color: red;
 	display: inline;
 	float: left;
 }
@@ -30,4 +30,8 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.header-social-media {
+	float: left;
 }
