@@ -1,0 +1,23 @@
+#navbar ul li {
+  display: inline;
+	padding: 10px;
+	text-align: bottom;
+}
+
+h1 {
+	font-family: 'Cuprum', sans-serif;
+	font-style: italic;
+	font-size: 50px;
+	padding-left: 20px;
+	color: white;
+	display: inline;
+	float: left;
+	position: relative;
+}
+p {
+	font-family: 'Lato', sans-serif;
+}
+
+.image {
+	margin: 5px 5px 5px 5px;
+}
